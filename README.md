@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Theresa-Harmon
 - 👀 I’m interested in enhancing my skills
 - 🌱 I’m currently learning more about SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me - theresaharmon84@gmail.com
 
 <!---
